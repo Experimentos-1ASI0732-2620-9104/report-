@@ -1,41 +1,6 @@
 # Student Outcome 4
 
-<table>
-<tr><td>Criterio específico</td><td>Acciones realizadas</td><td>Conclusiones</td></tr>
-<tr>
-<td>4.c.1. Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software.</td>
-<td>
-<b>Calvo Yalan, Renato Guillermo</b><br>
-<b>AV1:</b><br>
-<b>Becerra Ttito, Felix Orlando</b><br>
-<b>AV1:</b><br>
-<b>Quiroz Caceres, Adrian</b><br>
-<b>AV1:</b><br>
-<b>Huapaya Galindo, Dyron</b><br>
-<b>AV1:</b><br>
-<b>Ruiz Madrid, Billy Jake</b><br>
-<b>AV1:</b><br>
-</td>
-<td>
-<b>AV1:</b><br><br>
-</td>
-</tr>
-<tr>
-<td>4.c.2. Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales.</td>
-<td>
-<b>Calvo Yalan, Renato Guillermo</b><br>
-<b>AV1:</b><br>
-<b>Becerra Ttito, Felix Orlando</b><br>
-<b>AV1:</b><br>
-<b>Quiroz Caceres, Adrian</b><br>
-<b>AV1:</b><br>
-<b>Huapaya Galindo, Dyron</b><br>
-<b>AV1:</b><br>
-<b>Ruiz Madrid, Billy Jake</b><br>
-<b>AV1:</b><br>
-</td>
-<td>
-<b>AV1:</b><br><br>
-</td>
-</tr>
-</table>
+| Criterio específico | Acciones realizadas | Conclusiones |
+| :--- | :--- | :--- |
+| **4.c.1.** Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software. | **Calvo Yalan, Renato Guillermo**<br>**AV1:** Participó en la estructuración ética del perfil de la startup y la conducción respetuosa y transparente de las entrevistas a los usuarios y actores clave del segmento objetivo.<br><br>**Becerra Ttito, Felix Orlando**<br>**AV1:** Colaboró en la definición de user stories y requisitos del product backlog asegurando la privacidad de los datos de los usuarios y la integridad en la gestión de la información inicial.<br><br>**Quiroz Caceres, Adrian**<br>**AV1:** Contribuyó en el diseño y planteamiento de las entrevistas y escenarios de uso, garantizando un trato ético y un compromiso profesional con la confidencialidad de los entrevistados.<br><br>**Huapaya Galindo, Dyron**<br>**AV1:** Asumió con responsabilidad profesional la recopilación y estructuración de las necesidades de los clientes, evitando sesgos en el proceso de need-finding.<br><br>**Ruiz Madrid, Billy Jake**<br>**AV1:** Lideró la organización del equipo bajo principios éticos y de colaboración equitativa, supervisando que el levantamiento de información y el análisis del problema se realicen con rigor profesional. | **AV1:** El equipo comprende que la ingeniería de software exige un compromiso ético desde las etapas iniciales de descubrimiento y modelado del negocio. La recolección de datos y la formulación de requerimientos deben manejarse con total integridad y respeto hacia la privacidad y los derechos de los usuarios y stakeholders. |
+| **4.c.2.** Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. | **Calvo Yalan, Renato Guillermo**<br>**AV1:** Analizó el contexto económico y de mercado de la solución mediante la identificación de competidores y la propuesta de valor de la startup.<br><br>**Becerra Ttito, Felix Orlando**<br>**AV1:** Participó en la priorización del product backlog evaluando cómo las características funcionales impactan directamente en la eficiencia operativa y social de los usuarios.<br><br>**Quiroz Caceres, Adrian**<br>**AV1:** Evaluó los hallazgos del need-finding para comprender el impacto socioeconómico del problema principal que la solución busca resolver en su sector.<br><br>**Huapaya Galindo, Dyron**<br>**AV1:** Colaboró en la elaboración del perfil de la solución y el mapeo de escenarios (to-be scenario mapping), considerando el contexto real de los usuarios en su entorno.<br><br>**Ruiz Madrid, Billy Jake**<br>**AV1:** Dirigió el análisis de viabilidad de los segmentos objetivo y competidores, asegurando que el enfoque del proyecto responda de manera sostenible y efectiva a necesidades reales del mercado. | **AV1:** Se emitieron juicios fundamentados al analizar las necesidades del mercado y estructurar las bases funcionales del proyecto. El equipo reconoce que el desarrollo de software no solo busca resolver un problema técnico, sino generar un impacto económico y social positivo y medible en los usuarios y la sociedad. |
