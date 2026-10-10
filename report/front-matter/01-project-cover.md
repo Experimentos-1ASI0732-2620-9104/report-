@@ -15,7 +15,7 @@ NRC
 
 **9104**
 
-**Avance 1**
+**Trabajo Parcial**
 
 Docente
 
