@@ -15,7 +15,7 @@ NRC
 
 **9104**
 
-**Trabajo Parcial**
+**Avance 2**
 
 Docente
 
@@ -60,7 +60,7 @@ Proyecto
 
 **Período 202620**
 
-**Septiembre 2026**
+**Noviembre 2026**
 
 </div>
 </div>

@@ -34,4 +34,42 @@ del equipo.
 
 
 
+### Reporte de colaboración de la entrega del AV2
+
+<!-- BORRADOR AV2: reparto tentativo por secciones. Ajustar según quién realice cada sección y agregar las capturas
+     de Insights > Contributors, Commits y Network del repositorio al cierre de la entrega. -->
+
+Durante la elaboración del Avance 2, el equipo amplió el informe con la Parte II (verificación estática, validación con
+usuarios, auditoría de experiencias de usuario y monitoreo continuo) y la Parte III (planificación y diseño de
+experimentos). Cada sección se trabajó en una rama `feature/*` creada desde `develop` y se integró mediante Pull Request,
+aplicando GitFlow y Conventional Commits.
+
+URL del repositorio del informe: https://github.com/Experimentos-1ASI0732-2620-9104/report-
+
+| Integrante | Secciones del AV2 (tentativo) |
+|---|---|
+| Becerra Ttito, Felix Orlando | 6.2 Static testing & Verification y 7.4 Continuous Monitoring; actualización de 6.1, 7.1, 7.2 y 7.3 con la evidencia vigente de los repositorios de producto. |
+| Calvo Yalan, Renato Guillermo | 6.3 Validation Interviews; Conclusiones y recomendaciones, Bibliografía y Anexos. |
+| Quiroz Caceres, Adrian | 6.4 Auditoría de Experiencias de Usuario y 8.1 Experiment Planning. |
+| Huapaya Galindo, Dyron | 8.2 Experiment Design. |
+| Ruiz Madrid, Billy Jake | 8.3 Experimentation (To-Be User Stories y To-Be Product Backlog) y actualización del front matter. |
+
+<p>
+Además del informe, el equipo continuó el desarrollo de los productos de software. La siguiente tabla resume los
+commits de cada integrante en los repositorios de producto, según GitHub Insights &gt; Contributors al 13/11/2026:
+</p>
+
+| Integrante | Qualitrack-Platform | Qualitrack-WebApplication | Qualitrack-MobileApplication | Qualitrack-LandingPage | Total |
+|---|---:|---:|---:|---:|---:|
+| Ruiz Madrid, Billy Jake | 250 | 401 | 25 | 8 | 684 |
+| Quiroz Caceres, Adrian | 84 | 219 | 0 | 20 | 323 |
+| Calvo Yalan, Renato Guillermo | 16 | 186 | 0 | 29 | 231 |
+| Becerra Ttito, Felix Orlando | 57 | 132 | 0 | 29 | 218 |
+| Huapaya Galindo, Dyron | 24 | 109 | 24 | 54 | 211 |
+| **Total** | **431** | **1 047** | **49** | **140** | **1 667** |
+
+[POR COMPLETAR: captura de Insights > Contributors del AV2]
+
+[POR COMPLETAR: captura de Insights > Network del AV2]
+
 <div style="page-break-after: always;"></div>
